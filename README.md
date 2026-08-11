@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirantandur" alt="kirantandur" /></a> </p>
 
-- 👋 Hi, I'm Kiran Tandur, an Engineering Lead with 8.5 years of experience designing, developing, and scaling enterprise-grade Java backend systems across Banking and eCommerce domains. 
+ 👋 Hi, I'm Kiran Tandur, an Engineering Lead with 8.5 years of experience designing, developing, and scaling enterprise-grade Java backend systems across Banking and eCommerce domains. 
 
 🚀 I specialize in Spring Boot, Vert.x, and Dropwizard microservices, REST API design, and containerized deployments using Docker, with a strong foundation in database technologies including MSSql, MySql, Oracle SQL, and Postgres. I've successfully led engineering teams delivering high-availability, low-latency transaction modules that support secure financial applications, while ensuring performance, security, and reliability.
 
-🔧 At Persistent Systems, I lead the engineering of the Payment Module for Intuit Inc., driving product excellence under aggressive deadlines while implementing automated Karate integration tests and establishing comprehensive observability via Splunk. At previous organizations, I delivered backend solutions on the Oracle Flexcube application and designed centralized microservice configuration models to accelerate release deployment cycles.
+🔧 I lead the engineering of the Payment Module for Intuit Inc., driving product excellence under aggressive deadlines while implementing automated Karate integration tests and establishing comprehensive observability via Splunk. At previous organizations, I delivered backend solutions on the Oracle Flexcube application and designed centralized microservice configuration models to accelerate release deployment cycles.
 
 💡 I thrive on building scalable, high-impact systems and empowering teams to deliver excellence through collaboration, automation, and innovation. Always excited to connect with professionals driving the next generation of digital transformation.
 
