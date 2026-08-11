@@ -16,6 +16,7 @@
 Core Skills: Java/J2EE(8/11) | Spring Boot | Microservices | AWS (EC2, Lambda, S3, Glue Jobs, Athena, DynamoDB, SNS, SQS) | Vert.x | Dropwizard | REST APIs | Docker | CI/CD | Jenkins| Karate Testing | Splunk | MSSql | MySql | Oracle SQL | Postgres | Flexcube | Payments Engineering | Agile Scrum | Team Leadership
 
 - 📫 How to reach me **kiran.tandur01@gmail.com**
+-    LinkedIn Profile - **www.linkedin.com/in/kiran-tandur-65439bb0**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
