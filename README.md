@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirantandur&label=Profile%20views&color=0e75b6&style=flat" alt="kirantandur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirantandur" alt="kirantandur" /></a> </p>
+<p align="left"> <a href="https://github.com/KiranTandur"><img src="https://github-profile-trophy.vercel.app/?username=kirantandur" alt="kirantandur" /></a> </p>
 
  👋 Hi, I'm Kiran Tandur, an Engineering Lead with 8.5 years of experience designing, developing, and scaling enterprise-grade Java backend systems across Banking and eCommerce domains. 
 
