@@ -30,8 +30,8 @@ Core Skills: Java/J2EE(8/11) | Spring Boot | Microservices | AWS (EC2, Lambda, S
 <p align="left">
 <a href="https://www.linkedin.com/in/kiran-tandur-65439bb0"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--white?style=social&logo=linkedin"></a>
 <a href="mailto:kiran.tandur01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email--white?style=social&logo=gmail"></a>
-<a href="https://www.facebook.com/shailesh.shanbhags/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook--white?style=social&logo=facebook"></a>
-<a href="https://www.instagram.com/shailesh.shanbhag/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram--white?style=social&logo=instagram"></a>
+<!-- <a href="https://www.facebook.com/kiran_tandur/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook--white?style=social&logo=facebook"></a> -->
+<a href="https://www.instagram.com/kiran_tandur/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram--white?style=social&logo=instagram"></a>
  <!-- <a href="https://wa.me/+918904268137/?text=Hi Kiran" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp--white?style=social&logo=Whatsapp"> --></a>
 </p>
 
