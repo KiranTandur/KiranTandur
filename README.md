@@ -1,11 +1,11 @@
 <h1 align="left">Hi there! 👋, I'm Kiran</h1>
 <h3 align="center">A Passionate Backend Developer From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirantandur&label=Profile%20views&color=0e75b6&style=flat" alt="kirantandur" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirantandur&label=Profile%20views&color=0e75b6&style=flat" alt="kirantandur" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/KiranTandur"><img src="https://github-profile-trophy.vercel.app/?username=kirantandur" alt="kirantandur" /></a> </p> -->
 
- 👋 Hi, I'm Kiran Tandur, an Engineering Lead with 8.5 years of experience designing, developing, and scaling enterprise-grade Java backend systems across Banking and eCommerce domains. 
+ 👋 Hi, I'm Kiran Tandur, an Engineering Lead with 9 years of experience designing, developing, and scaling enterprise-grade Java backend systems across Banking and eCommerce domains. 
 
 🚀 I specialize in Spring Boot, Vert.x, and Dropwizard microservices, REST API design, and containerized deployments using Docker, with a strong foundation in database technologies including MSSql, MySql, Oracle SQL, and Postgres. I've successfully led engineering teams delivering high-availability, low-latency transaction modules that support secure financial applications, while ensuring performance, security, and reliability.
 
