@@ -21,10 +21,10 @@ Core Skills: Java/J2EE(8/11) | Spring Boot | Microservices | AWS (EC2, Lambda, S
 - 📫 How to reach me **kiran.tandur01@gmail.com**
 -    LinkedIn Profile - **www.linkedin.com/in/kiran-tandur-65439bb0**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kiran_tandur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiran_tandur" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left"> 🤝🏻 Connect with Me </h3>
 <p align="left">
