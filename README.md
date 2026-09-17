@@ -26,13 +26,13 @@ Core Skills: Java/J2EE(8/11) | Spring Boot | Microservices | AWS (EC2, Lambda, S
 <a href="https://instagram.com/kiran_tandur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiran_tandur" height="30" width="40" /></a>
 </p>
 
-<h3 align="center"> 🤝🏻 Connect with Me </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/shaileshsps"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--white?style=social&logo=linkedin"></a>
-<a href="mailto:shailesh.spbs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email--white?style=social&logo=gmail"></a>
+<h3 align="left"> 🤝🏻 Connect with Me </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/kiran-tandur-65439bb0"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--white?style=social&logo=linkedin"></a>
+<a href="mailto:kiran.tandur01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email--white?style=social&logo=gmail"></a>
 <a href="https://www.facebook.com/shailesh.shanbhags/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook--white?style=social&logo=facebook"></a>
 <a href="https://www.instagram.com/shailesh.shanbhag/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram--white?style=social&logo=instagram"></a>
-  <a href="https://wa.me/+919945809375/?text=Hi Shailesh" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp--white?style=social&logo=Whatsapp"></a>
+ <!-- <a href="https://wa.me/+918904268137/?text=Hi Kiran" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp--white?style=social&logo=Whatsapp"> --></a>
 </p>
 
 <!-- <p><img align="center" src="https://github.com/KiranTandur" alt="kirantandur" /></p> -->
