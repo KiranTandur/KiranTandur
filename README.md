@@ -15,6 +15,9 @@
 
 Core Skills: Java/J2EE(8/11) | Spring Boot | Microservices | AWS (EC2, Lambda, S3, Glue Jobs, Athena, DynamoDB, SNS, SQS) | Vert.x | Dropwizard | REST APIs | Docker | CI/CD | Jenkins| Karate Testing | Splunk | MSSql | MySql | Oracle SQL | Postgres | Flexcube | Payments Engineering | Agile Scrum | Team Leadership
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
 - 📫 How to reach me **kiran.tandur01@gmail.com**
 -    LinkedIn Profile - **www.linkedin.com/in/kiran-tandur-65439bb0**
 
@@ -23,7 +26,13 @@ Core Skills: Java/J2EE(8/11) | Spring Boot | Microservices | AWS (EC2, Lambda, S
 <a href="https://instagram.com/kiran_tandur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiran_tandur" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/shaileshsps"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--white?style=social&logo=linkedin"></a>
+<a href="mailto:shailesh.spbs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email--white?style=social&logo=gmail"></a>
+<a href="https://www.facebook.com/shailesh.shanbhags/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook--white?style=social&logo=facebook"></a>
+<a href="https://www.instagram.com/shailesh.shanbhag/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram--white?style=social&logo=instagram"></a>
+  <a href="https://wa.me/+919945809375/?text=Hi Shailesh" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp--white?style=social&logo=Whatsapp"></a>
+</p>
 
 <!-- <p><img align="center" src="https://github.com/KiranTandur" alt="kirantandur" /></p> -->
